@@ -11,30 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Mech Engg, Aligarh Muslim University, India- 2019
+* M.Phil. in Mech Engg, The Hong Kong University of Science and Technology, 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021-present: Reserch Engineer
+  * The Hong Kong University of Science and Technology
+  * Duties included: Development of generative structural design software for Additive Manufacturing
+  * Supervisor: Professor Michael Yu Wang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* Summer 2018: Research Intern
+  * École de technologie supérieure
+  * Duties included: Biomechanical modelling of the human spine subjected to traumatic loadings
+  * Supervisor: Professor Eric Wagnac
+
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
 
 Publications
 ======
