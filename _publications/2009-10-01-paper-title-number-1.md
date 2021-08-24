@@ -7,6 +7,7 @@ date: 2021-02-10
 venue: 'IEEE International Conference on Intelligent Robots and Systems'
 
 ---
+This paper presents design and development of auxetic switching units that can be used to create novel robotic application. To testify the functionality soft rotary actuators are combined with the Auxetics to create robotic parts.
 
 [Download paper here](https://doi.org/10.1109/IROS45743.2020.9341338)
 
