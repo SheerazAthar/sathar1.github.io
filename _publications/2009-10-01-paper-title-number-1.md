@@ -1,7 +1,7 @@
 ---
 title: "Vacuum Driven Auxetic Switching Structure and Its Application on a Gripper and Quadruped"
 collection: publications
-permalink:
+permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 
 date: 2021-02-10
 venue: 'IEEE International Conference on Intelligent Robots and Systems'
