@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sheeraz Athar"
-  avatar           : "DSC_0037.jpg"
+  avatar           : "https://github.com/SheerazAthar/sheerazathar.github.io/blob/master/DSC_0037.jpg"
   bio              : "Research Engineer at, <a style='color: black;' href='https://hkust.edu.hk/home'>HKUST</a> <a style='color: black;' href='https://ri.ust.hk/home'>Robotics Institute</a>"
   location         : "Hong Kong"
   employer         :
