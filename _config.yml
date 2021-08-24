@@ -11,9 +11,9 @@ title                    : "Sheeraz Athar"
 title_separator          : "-"
 name                     : &name "Sheeraz Athar"
 description              : &description "Research Engineer at The Hong Kong University of Science and Technology"
-url                      : https://sathar1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sheerazathar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sathar1.github.io"
+repository               : "sheerazathar.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
