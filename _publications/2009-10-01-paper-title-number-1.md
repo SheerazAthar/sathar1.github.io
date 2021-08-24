@@ -2,14 +2,14 @@
 title: "Vacuum Driven Auxetic Switching Structure and Its Application on a Gripper and Quadruped"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+excerpt: 
+date: 2021-02-10
+venue: 'IEEE International Conference on Intelligent Robots and Systems'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'S. Liu, S. Athar and M. Y. Wang, "Vacuum Driven Auxetic Switching Structure and Its Application on a Gripper and Quadruped," 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020, pp. 8829-8834, doi: 10.1109/IROS45743.2020.9341338.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://doi.org/10.1109/IROS45743.2020.9341338)
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
