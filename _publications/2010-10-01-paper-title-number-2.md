@@ -6,7 +6,7 @@ excerpt: 'This work was done as a part of my bachelor thesis. I presented and de
 date: 2019-06-10
 venue: 'Undergraduate Thesis'
 paperurl: ''
-citation: ''
+
 ---
 This work was done as a part of my bachelor thesis. I presented and design of a finger rehabilitation device controlled through EEG signals..
 
