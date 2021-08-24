@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sheeraz Athar"
   avatar           : "profile.png"
-  bio              : "Research Engineer at HKUST"
+  bio              : "Research Engineer at, <a style='color: black;' href='https://hkust.edu.hk/home'>HKUST</a> & <a style='color: black;' href='https://ri.ust.hk/home'>Robotics Institute</a>"
   location         : "Hong Kong"
   employer         :
   pubmed           : 
