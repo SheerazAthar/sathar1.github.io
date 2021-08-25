@@ -4,7 +4,7 @@ of Modeled Teeth and Mandible Using
 Finite Element Analysis"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper presents deisgn of an EEG based exoskelton used for rehabilitation therapy.'
+excerpt: 'This paper presents FEM simulations of human mandible for different orthodontic loadings.'
 date: 2017-12-01
 venue: 'International Conference on Humanizing Work and Work Environment'
 paperurl: 'https://doi.org/10.1007/978-981-15-9054-2_10'
