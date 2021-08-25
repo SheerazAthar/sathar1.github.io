@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: This paper presents design and development of auxetic switching units that can be used to create novel robotic application. To testify the functionality soft rotary actuators are combined with the Auxetics to create robotic parts.
 date: 2020-10-10
+paperur: 'https://doi.org/10.1109/IROS45743.2020.9341338'
 venue: 'IEEE International Conference on Intelligent Robots and Systems'
 
 ---
