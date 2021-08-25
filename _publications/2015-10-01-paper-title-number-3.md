@@ -4,7 +4,7 @@ for Rehabilitation Therapy"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper presents deisgn of an EEG based exoskelton used for rehabilitation therapy.'
-date: 2015-10-01
+date: 2017-12-10
 venue: 'International Conference on Humanizing Work and Work Environment'
 paperurl: 'https://doi.org/10.1007/978-981-15-9054-2_75'
 
