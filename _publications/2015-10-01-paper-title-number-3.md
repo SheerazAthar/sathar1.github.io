@@ -6,7 +6,7 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper presents deisgn of an EEG based exoskelton used for rehabilitation therapy.'
 date: 2015-10-01
 venue: 'International Conference on Humanizing Work and Work Environment'
-paperurl: 'http://sheerazathar.github.io/files/EEG HWWE 2017.pdf'
+paperurl: 'https://doi.org/10.1007/978-981-15-9054-2_75'
 
 ---
 Abstract: Functional restoration of arm and hand movements is a challenging goal
@@ -28,6 +28,6 @@ development along with an experimental evaluation of EEG-driven exoskeleton. Thi
 exoskeleton could then be used to assist in the rehabilitation program of stroke/trauma
 patients.
 
-[Download paper here](http://sheerazathar.github.io/files/EEG HWWE 2017.pdf)
+[Download paper here](https://doi.org/10.1007/978-981-15-9054-2_75)
 
 
