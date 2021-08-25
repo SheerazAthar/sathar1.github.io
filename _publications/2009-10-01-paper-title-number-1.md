@@ -3,7 +3,7 @@ title: "Vacuum Driven Auxetic Switching Structure and Its Application on a Gripp
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: This paper presents design and development of auxetic switching units that can be used to create novel robotic application. To testify the functionality soft rotary actuators are combined with the Auxetics to create robotic parts.
-date: 2021-02-10
+date: 2020-10-10
 venue: 'IEEE International Conference on Intelligent Robots and Systems'
 
 ---
