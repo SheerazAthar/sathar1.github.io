@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.Tech. in Mech Engg, Aligarh Muslim University, India- 2019
 * M.Phil. in Mech Engg, The Hong Kong University of Science and Technology, 2021
-* <p style="color:red">This is a paragraph.</p>
+  * Post Graduate studentship
+* B.Tech. in Mech Engg, Aligarh Muslim University, India- 2019
 
 Work experience
 ======
@@ -30,7 +30,7 @@ Work experience
 
 
   
-Skills
+Honors and Awards
 ======
 
 
