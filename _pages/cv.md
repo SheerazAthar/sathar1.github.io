@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.Phil. in Mech Engg, The Hong Kong University of Science and Technology, 2021
-  * Research Assitant in the lab of <p> < a href="https://facultyprofiles.ust.hk/profiles.php?profile=michael-yu-wang-mywang"> Prof. Michael Yu Wang </a></p>.(2019-2021)
+  * Research Assitant in the lab of [Prof. Michael Yu Wang](https://facultyprofiles.ust.hk/profiles.php?profile=michael-yu-wang-mywang).(2019-2021)
   * Teaching Assitant of Design and Manufatcuring Coureses. (2020)
   * Recipient of Post Graduate Studentship 28,000 USD a year by HKUST. (2019-2021)
   * Relevant coursework: Robot Manipulation, Robot Perception and Learning, Solid Mechanics, Finite Element
@@ -66,18 +66,18 @@ Service and leadership
 * Student Member, Institute of Electrical and Electronics Engineers (IEEE)
 * Member, IEEE Robotics and Automation Society
 * Vice-chairperson, American Society of Mechanical Engineers- AMU student chapter
-  *Organized one day educational tour to Pragati Maidan (Delhi, India), during international trade fare.
-  *Organized various events and seminars on engineering topics and educational prospects
+  * Organized one day educational tour to Pragati Maidan (Delhi, India), during international trade fare.
+  * Organized various events and seminars on engineering topics and educational prospects
 * Member of the Student Co-ordination Committee, ZHCET, AMU, Aligarh.
-  *Conveyed students feedback to the administration.
-  *Contributed to the development of new curriculum for bachelor level courses
+  * Conveyed students feedback to the administration.
+  * Contributed to the development of new curriculum for bachelor level courses
 * Member, Organizing Committee of Recrufest. (A university level job expo).
 * Student Ambassador, ZHCET North America Alumni Association.
-  *Worked as a liaison between the alumni association, students, and college administration
-  *Organized talks and workshops on GRE and TOEFL for students
+  * Worked as a liaison between the alumni association, students, and college administration
+  * Organized talks and workshops on GRE and TOEFL for students
 * Cadet, National Cadet Corp.
 * Participated in annual camp of National Cadet Corp.
 * Volunteer, HWWE-2017.
 * Member, Discipline committee, Zarf17. (Annual college fest).
-  *Administered the proper functioning of various events taking place as a part of college fest
-  *Coordinated between various organizers to facilitate the logistics
+  * Administered the proper functioning of various events taking place as a part of college fest
+  * Coordinated between various organizers to facilitate the logistics
