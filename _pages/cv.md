@@ -29,19 +29,18 @@ Work experience
 * 2021-present: Reserch Engineer
   * The Hong Kong University of Science and Technology
   * Duties included: Development of generative structural design software for Additive Manufacturing
-  * Supervisor: Professor Michael Yu Wang
+  * Supervisor: [Prof. Michael Yu Wang](https://facultyprofiles.ust.hk/profiles.php?profile=michael-yu-wang-mywang)
 
 
 * Summer 2018: Research Intern
   * École de technologie supérieure
   * Duties included: Biomechanical modelling of the human spine subjected to traumatic loadings
-  * Supervisor: Professor Eric Wagnac
+  * Supervisor: [Prof. Eric Wagnac](https://www.etsmtl.ca/en/research/professors/ewagnac)
 
 
 Skills
 ======
-**Scripting**: Python, Mathoworks, C++, Robot Operating System (ROS)
-
+**Scripting**: Python, Mathoworks, C++, Robot Operating System (ROS)<br/>
 **Computing and Simulation Tools**: MATLAB, MS Office
 
 **Finite Element Analysis**: ANSYS, Abaqus, Altair Hyperworks, Siemens NX
