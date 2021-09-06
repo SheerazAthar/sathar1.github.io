@@ -10,6 +10,8 @@ redirect_from:
 {% include base_path %}
 
 Also available in [PDF](https://github.com/sheerazathar/sheerazathar.github.io/blob/master/files/Resume%20Sheeraz%20Athar.pdf) format
+
+
 Education
 ======
 * M.Phil. in Mech Engg, The Hong Kong University of Science and Technology, 2021
