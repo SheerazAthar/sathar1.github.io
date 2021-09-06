@@ -41,17 +41,12 @@ Work experience
 Skills
 ======
 **Scripting**: Python, Mathoworks, C++, Robot Operating System (ROS)<br/>
-**Computing and Simulation Tools**: MATLAB, MS Office
-
-**Finite Element Analysis**: ANSYS, Abaqus, Altair Hyperworks, Siemens NX
-
-**Environment**: Windows, Linux
-
-**Design and Modelling**: AutoCAD, Autodesk Inventor, Solidworks, Autodesk Fusion
-
-**Text Editing**: LaTex, Microsoft word
-
-**Languages**: English, Urdu, Hindi
+**Computing and Simulation Tools**: MATLAB, MS Office<br/>
+**Finite Element Analysis**: ANSYS, Abaqus, Altair Hyperworks, Siemens NX<br/>
+**Environment**: Windows, Linux<br/>
+**Design and Modelling**: AutoCAD, Autodesk Inventor, Solidworks, Autodesk Fusion<br/>
+**Text Editing**: LaTex, Microsoft word<br/>
+**Languages**: English, Urdu, Hindi<br/>
 
 
 Honors and Awards
