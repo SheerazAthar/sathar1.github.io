@@ -1,13 +1,16 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About"
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome! My name is Sheeraz, and I am a Research Engineer at the Hong Kong University of Science and Technology Robotics Institue. I work at the intersection of Robotics, Biomechanics & Materials and develop robots categorized as soft, origami, and bio-inspired. As robots are more integrated with humans than ever before, we are in great need to make sure that this engagement is mutually beneficial and innocuous. Soft material robots are the most promising solution to achieve this goal. Soft Robots are made up of flexible and deformable materials which can use their natural compliance to respond to unknown environments, making them both adaptable and safe to work along.
+Hi! I'm Sheeraz, a Research Engineer at the Hong Kong University of Science and Technology (HKUST) in Cheng Kar-Shun Robotics Institue. I have recently graduated with a master's degree in mechanical engineering from HKUST. My thesis concentration was robotics, and I have been extensively trained in topics like Robot manipulation, Robot perception& learning, etc. Before joining HKUST, I did my Undergrad in mechanical engineering from Aligarh Muslim University, India.
+
+## My work and research
+I use engineering and mathematical tools to develop Soft, Origami, and Bio-inspired robots. My research is interdisciplinary and intersects different fields such as Robotics, Biomechanics, and Materials & Manufacturing. In today's world, robots are more integrated with humans than ever before, especially with the introduction of personal and rehabilitation robots, etc. To make this engagement innocuous and safe to work along, the development of soft robotic technologies is imperative. Working in this link, I have a great interest in Soft robotics and aim to pursue this in my future research. This website serves as a medium to communicate my work with others; if you want to discuss any related topic, feel free to contact me.
 
 ![Research Intersect](https://user-images.githubusercontent.com/63510912/132189182-7b7b71dc-6ca8-4fb8-8b6b-7abfc856700d.png)
