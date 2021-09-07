@@ -55,6 +55,19 @@ Skills
 
 Honors and Awards
 ======
+* Satyendra Kumar Kashyap Merit Scholarship amount 6000 INR, by Department of Mechanical Engineering, AMU. (2017)
+* University Merit Financial Award amount 4320 INR, by Aligarh Muslim University (AMU). (2017)
+* Selected for **S. N Bose Scholars Program-2018** (U.S.A)
+* Selected for the **Mitacs Globalink Research Internship-2018** (Canada)
+* First Rank in National Astronomy Olympiad (at school level 2013)
+* In top 3% among 104 students in B. Tech (Mechanical Final year), ZHCET, A.M.U
+* **Second Prize** in the Young Researcher Award “Undergraduate” category at the International Conference on Humanizing Work and Work Environment (HWWE) 2017, A.M.U., Aligarh, India
+* **Third Prize** in the Young Researcher Award “Undergraduate” category at the International Conference on Humanizing Work and Work Environment (HWWE) 2017, A.M.U., Aligarh, India
+* **Sir Syed Global Scholar** Award, by Sir Syed Society of North America-2018
+* University Merit Financial Award amount 3240 INR, by AMU. (2018)
+* Post Graduate Studentship, amount 28000USD a year, by HKUST. (2019-2021)
+
+
 
 
 
@@ -64,13 +77,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
   
-Teaching
+Research
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
