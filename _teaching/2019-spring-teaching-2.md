@@ -16,4 +16,6 @@ Description
 ======
 This study presents design and development of an origami-inspired rotary actuator that can be used as a generic rotary joint for the soft and semi-soft robots. I have presented design analysis in order to programme the shape of the actuator according to the need. The developed actuator has three working mode namely positive, negative and hybrid based on the kind of pneumatic actuation applied. I did different characterization experiments to quantify actuator’s Torque, creep, hysteresis, speed of actuation etc. Finally, to establish the applicability of the actuator as an important part of the soft robotic systems I developed a hybrid gripper out as it as an application.
 
+![Summary of the Research projects](https://user-images.githubusercontent.com/63510912/132287630-debcf2e8-e3f0-4567-8fec-bf2ebf9e51fd.jpg)
+
 
