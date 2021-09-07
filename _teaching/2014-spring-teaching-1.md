@@ -2,6 +2,7 @@
 title: "OriTube: a new class of programmable origami-inspired soft actuators"
 collection: teaching
 permalink: /teaching/2014-spring-teaching-1
+type: "Supervisor: Prof. Maichael Yu Wang"
 venue: "HKUST"
 location: "Hong Kong"
 ---
