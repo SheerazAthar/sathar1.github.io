@@ -14,7 +14,10 @@ This project was done as a part of Mitacs Research Internship at Edole de techno
 
 Description
 ======
-I did this project while working as the research intern at École de technologie supérieure (ÉTS) – Montréal, Canada. I carried out simulations on the CAD model of human spine to predict the fracture patterns in the spine subjected to traumatic conditions like car crash etc. This research aimed to provide the insights for design of safety equipment that could minimize the damage during such happenings. The simulations carried out were primarily focused on thoracolumbar portion (T11-L1) of the human spine. Following figure depicts results of one of the simulation. Full report can be accessed [here](https://github.com/sheerazathar/sheerazathar.github.io/files/7119278/Biomechanical.modelling.of.the.human.spine.for.trauma.applications.pdf)
+I did this project while working as the research intern at École de technologie supérieure (ÉTS) – Montréal, Canada. I carried out simulations on the CAD model of human spine to predict the fracture patterns in the spine subjected to traumatic conditions like car crash etc. This research aimed to provide the insights for design of safety equipment that could minimize the damage during such happenings. The simulations carried out were primarily focused on thoracolumbar portion (T11-L1) of the human spine. Following figure depicts results of one of the simulation. 
+
+
+Full report can be accessed [here](https://github.com/sheerazathar/sheerazathar.github.io/files/7119278/Biomechanical.modelling.of.the.human.spine.for.trauma.applications.pdf)
 
 
 
