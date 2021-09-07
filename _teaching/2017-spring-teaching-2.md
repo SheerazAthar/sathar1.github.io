@@ -8,7 +8,7 @@ date: 2017-09-01
 location: "India"
 ---
 
-This was an independent project that completed in Prof. Khan's lab as a UG student. It was a joint colloboration between All India Institute of Medical Sciences (AIIMS) and Aligarh Muslim University (AMU).
+I completed this project while working as a UG researcher in Prof. Khan's Lab. It was a joint colloboration between All India Institute of Medical Sciences (AIIMS) and Aligarh Muslim University (AMU).
 
 Description
 ======
