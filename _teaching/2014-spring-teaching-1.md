@@ -7,7 +7,7 @@ venue: "HKUST"
 location: "Hong Kong"
 date: "2020-01-01"
 ---
-
+This project presents bi-directional actuators that can linear motion in two mutually perpendicular directions. This kind of motion in unique and be used for various functionalities.
 
 Description
 ===========
