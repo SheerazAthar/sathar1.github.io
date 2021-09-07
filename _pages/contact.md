@@ -1,3 +1,4 @@
+---
 permalink: /contact/
 title: "Contact"
 excerpt: "Contact me"
