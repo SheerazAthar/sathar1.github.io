@@ -44,7 +44,7 @@ Work experience
 
 Skills
 ======
-**Scripting**: Python, Mathoworks, C++, Robot Operating System (ROS)<br/>
+**Scripting**: Python, Mathworks, C++, Robot Operating System (ROS)<br/>
 **Computing and Simulation Tools**: MATLAB, MS Office<br/>
 **Finite Element Analysis**: ANSYS, Abaqus, Altair Hyperworks, Siemens NX<br/>
 **Environment**: Windows, Linux<br/>
